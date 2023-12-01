@@ -12,7 +12,7 @@ PartiQL is an expressive, SQL-compatible query language giving access to relatio
 ## Contributions
 
 * If you have questions or suggestions about the PartiQL Language, please check out our [GitHub Discussion](https://github.com/orgs/partiql/discussions) forum.
-* Please see the [CONTRIBUTING.md](../CONTRIBUTING.md) file to learn how to contribute.
+* Please see the [CONTRIBUTING.md](CONTRIBUTING.md) file to learn how to contribute.
 
 ## Resources
 - Two reference Implementations:  [PartiQL-Lang-Kotlin](https://github.com/partiql/partiql-lang-kotlin) and [PartiQL-Lang-Rust](https://github.com/partiql/partiql-lang-rust). 
@@ -21,4 +21,4 @@ PartiQL is an expressive, SQL-compatible query language giving access to relatio
 
 ---
 
-This project has adopted the Amazon [Open Source Code of Conduct](../CODE_OF_CONDUCT.md). Copyright PartiQL Contributors.
+This project has adopted the Amazon [Open Source Code of Conduct](CODE_OF_CONDUCT.md). Copyright PartiQL Contributors.
