@@ -6,18 +6,18 @@
     </picture>
 </p>
 
-
 PartiQL is an expressive, SQL-compatible query language giving access to relational, semi-structured, and nested data.
 
 ## Contributions
-
+* If you find a security issue, please [contact our security team](https://github.com/partiql/partiql-lang-kotlin/security) rather than opening an issue.
 * If you have questions or suggestions about the PartiQL Language, please check out our [GitHub Discussion](https://github.com/orgs/partiql/discussions) forum.
-* Please see the [CONTRIBUTING.md](CONTRIBUTING.md) file to learn how to contribute.
+* If you have found a bug in one of our implementations, please feel free to open a GitHub Issue in the appropriate repository! See the links to each implementation further below.
 
 ## Resources
-- Two reference Implementations:  [PartiQL-Lang-Kotlin](https://github.com/partiql/partiql-lang-kotlin) and [PartiQL-Lang-Rust](https://github.com/partiql/partiql-lang-rust). 
-- [Tutorial](https://partiql.org/tutorial.html) and [documentations](https://partiql.org/dql/overview.html). 
-- [PartiQL Specification](https://partiql.org/assets/PartiQL-Specification.pdf)
+- [PartiQL Website](https://partiql.org/)
+- [PartiQL Language Specification](https://partiql.org/assets/PartiQL-Specification.pdf)
+- Two reference implementations: [PartiQL-Lang-Kotlin](https://github.com/partiql/partiql-lang-kotlin) and [PartiQL-Lang-Rust](https://github.com/partiql/partiql-lang-rust). 
+- [Tutorial](https://partiql.org/tutorial.html) and [documentation](https://partiql.org/dql/overview.html). 
 
 ---
 
